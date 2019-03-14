@@ -145,9 +145,9 @@ font header .navbar-default .navbar-nav li a:hover {
   letter-spacing: 3px;
 }
 #slider > container {
-  position: absolute;
-  top: 30%;
-  top: 30vh;
+  position: absolute !important;
+  top: 30% !important;
+  top: 30vh !important;
 }
 /*--
 	wrapper Start
