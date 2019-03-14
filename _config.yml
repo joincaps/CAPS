@@ -28,10 +28,38 @@ markdown: kramdown
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
+# Social Links
+email:              capsseminar@gmail.com
+#other site:        www.site.org
+caps:               github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md
+#google.plus:       username
+#twitter:           username
+#facebook:          username
+github:             joincaps
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:           username
+#xing:              username
+#instagram:         username
+#lastfm:            username
+#tumblr:            username
+#pinterest:         username
+#foursquare:        username
+#steam:             username
+#dribbble:          username
+#youtube:           channel
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+#behance:           username
+
 # Category descriptions (for archive pages)
 descriptions:
   - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+    desc: ""
 
   - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: ""
