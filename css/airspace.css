@@ -109,7 +109,7 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 100vh;
   min-height: 500px; /*Prevents text overflow on tiny windows*/
 }
-@media (min-width: 766px) {
+@media (max-width: 766px) {
   #slider {
     margin-top: -75px;
   }
