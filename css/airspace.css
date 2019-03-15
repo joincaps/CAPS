@@ -3,6 +3,11 @@
  * In airspace, it is called style.css
  * However, style.css now holds additional styles for this jekyll port. (Not written by ThemeFisher)
  * The original style.css is now called airspace.css
+ *
+ * Just to add to the confusion, the above comments are from the jekyll porter.
+ * The guy setting up this new fork for CAPS needed to make a bunch of changes.
+ * For now, I've listed them wherever the relevant code already lived.
+ * I'd like to redo the whole thing - with SASS - if and when this project is something I can devote regular work hours.
  * 
  */
 
