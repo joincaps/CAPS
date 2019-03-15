@@ -1,12 +1,12 @@
 - counter: 20000
-  icon: ion-ios-chatboxes-outline
+  icon: ion-ios-eye-outline
   text: Cups of Coffee
-- counter: 1500
-  icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
-- counter: 1200
-  icon: ion-ios-compose-outline
-  text: Whiteboard Markers
-- counter: 300
-  icon: ion-ios-timer-outline
-  text: Websites built
+- counter: 780
+  icon: ion-ios-cloudy-night-outline
+  text: Hours of Sleep Lost
+- counter: 7
+  icon: ion-ios-world-outline
+  text: Countries We've Lived In
+- counter: 0
+  icon: ion-ios-wineglass-outline
+  text: Regrets
